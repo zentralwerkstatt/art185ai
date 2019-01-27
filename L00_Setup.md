@@ -12,12 +12,12 @@ Welcome to the practical part of [ART185AI](https://github.com/zentralwerkstatt/
 
 The following steps assume some familiarity with the command line on your respective system that we will obtain in class.
 
-1.) Download the installer package for [Miniconda 3](https://conda.io/en/master/miniconda.html) for your respective operating system and install Miniconda.
-2.) Open a terminal and create a new [conda environment](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) with the command `conda create -n art185ai`.
-3.) Activate the environment (this depends on your operating system).
-4.) Install [Juypter](https://jupyter.org/) : `conda install jupyter`.
-5.) Install [PyTorch](https://pytorch.org/) (this depends on your operating system). We assume that no GPU is available and thus install it without CUDA support. A CUDA enabled server with a GeForce 1080TI GPU will be made availabe on request to run computationally expensive and/or highly customized code.
-6.) You might need to install Git, depending on your system configuration.
+1. Download the installer package for [Miniconda 3](https://conda.io/en/master/miniconda.html) for your respective operating system and install Miniconda.
+2. Open a terminal and create a new [conda environment](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) with the command `conda create -n art185ai`.
+3. Activate the environment (this depends on your operating system).
+4. Install [Juypter](https://jupyter.org/) : `conda install jupyter`.
+5. Install [PyTorch](https://pytorch.org/) (this depends on your operating system). We assume that no GPU is available and thus install it without CUDA support. A CUDA enabled server with a GeForce 1080TI GPU will be made availabe on request to run computationally expensive and/or highly customized code.
+6. You might need to install Git, depending on your system configuration.
 
 If everything worked, you should be able to `cd` into a directory of your choice and run `jupyter notebook`without errors. A browser window will open with the Jupyter interface. There, by pressing the "New" button and the selecting "Python 3", a new Juypter notebook will open. Click on the first cell and enter `print('Hello world!'), then press `Ctrl + Enter`. The text "Hello world!" will be printed below the cell. Congratulations, you are all set up!
 
