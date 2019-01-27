@@ -20,7 +20,7 @@ There are many different way to "look into" a variable, i.e. see what value it i
 
 ## Algebra with Variables
 
-As variables can hold values, we can use them algebraically, almost exactly like we would without a computer. For instance, we could calculate the sum of `a=4`and `b=2` by assigning it to `c`: `c=a+b`. `print`ing `c will give us the result: `6`. Many other algebraic operations are possible:
+As variables can hold values, we can use them algebraically, almost exactly like we would without a computer. For instance, we could calculate the sum of `a=4`and `b=2` by assigning it to `c`: `c=a+b`. `print`ing `c` will give us the result: `6`. Many other algebraic operations are possible:
 
 - `print(a-b)`: 2
 - `print(a*b)`: 8
