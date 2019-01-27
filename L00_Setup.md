@@ -19,7 +19,7 @@ The following steps assume some familiarity with the command line on your respec
 5. Install [PyTorch](https://pytorch.org/) (this depends on your operating system). We assume that no GPU is available and thus install it without CUDA support. A CUDA enabled server with a GeForce 1080TI GPU will be made availabe on request to run computationally expensive and/or highly customized code.
 6. You might need to install Git, depending on your system configuration.
 
-If everything worked, you should be able to `cd` into a directory of your choice and run `jupyter notebook`without errors. A browser window will open with the Jupyter interface. There, by pressing the "New" button and the selecting "Python 3", a new Juypter notebook will open. Click on the first cell and enter `print('Hello world!'), then press `Ctrl + Enter`. The text "Hello world!" will be printed below the cell. Congratulations, you are all set up!
+If everything worked, you should be able to `cd` into a directory of your choice and run `jupyter notebook`without errors. A browser window will open with the Jupyter interface. There, by pressing the "New" button and the selecting "Python 3", a new Juypter notebook will open. Click on the first cell and enter `print('Hello world!')`, then press `Ctrl + Enter`. The text "Hello world!" will be printed below the cell. Congratulations, you are all set up!
 
 ## Help and Support
 
