@@ -4,8 +4,8 @@
 
 Welcome to the practical part of [ART185AI](https://github.com/zentralwerkstatt/teaching/blob/master/art185ai.md). Below you will find the necessary steps to setup your system to run the code that we will analyze and develop in class. We will utilize an established combination of tools that is being used by many developers working experimentally on machine learning problems, consisting of the 
 
-- Python 3 programming language with the
-- [Anaconda](https://www.anaconda.com) data science Python distribution, which includes
+- [Python](https://python.org) 3 programming language, the
+- [Anaconda](https://www.anaconda.com) data science distribution,
 - [Numpy](http://www.numpy.org/), a library for fast numerical operations, the
 - [Juypter](https://jupyter.org/) notebook literal programming system, and the
 - [PyTorch](https://pytorch.org/) machine learning framework.
