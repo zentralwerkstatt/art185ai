@@ -42,14 +42,12 @@ We can also obtain truth values from algebraic statements using variables. For i
 - `print(a>=b)`: True
 - `print(a<=b)`: False
 
-
-
 ## Next
 
-In the next few meetings, we will talk about:
+In the next meetings we will talk about:
 
-- Flow control
-- Functions
-- Lists and dictionaries
-- Numpy
-- PyTorch
+- Flow control, more keywords, functions, classes
+- Lists and dictionaries, Numpy
+- PyTorch: basics
+- PyTorch: examples
+- Building our own MNIST classifier
