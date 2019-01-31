@@ -7,7 +7,7 @@ One of the most convenient things in Python is its handling of lists, a compound
 - `int_list = [1, 2, 3, 4, 5]`
 - `string_list = ['foo', 'bar', 'baz']`
 
-The most important feature of lists and similar compound data types -- one that we will encounter over and over -- is *slicing*. Slicing a list means returning just a part of it. This is done with the colon operator. For instance, to just return the first element of our integer list, we can write ìnt_list[0]`(in programming, we are almost always counting from 0, not from 1). The second element can be returned by `int_list[1]`, etc.. But we can also access parts of lists in a more dynamic fashion:
+The most important feature of lists and similar compound data types - one that we will encounter over and over - is *slicing*. Slicing a list means returning just a part of it. This is done with the colon operator. For instance, to just return the first element of our integer list, we can write `int_list[0]` (in programming, we are almost always counting from 0, not from 1). The second element can be returned by `int_list[1]`, etc.. But we can also access parts of lists in a more dynamic fashion:
 
 - `print(int_list[:2])`: 1 2, the "first two" elements
 - `print(int_list[2:])`: 3 4 5, everything but the "first two" elements
@@ -33,7 +33,7 @@ A word of caution: single items from lists are treated as simple types, not sing
 
 ## Flow control: if...(then)...else
 
-Do to anything productive you will need to control the flow of your program, i.e. you will need to control what is executed when (not in terms of time but in terms of order). In most cases, flow control decisions will be tied to the value of a variable. Accordingly, the most simple flow control measure you can take is to have the execution of a piece of code depend on the value of a variable. In Python, we use the `if ... (then) ... else` statements for this:
+Do to anything productive you will need to control the flow of your program, i.e. you will need to control what is executed when (not in terms of time but in terms of order). In most cases, flow control decisions will be tied to the value of a variable. Accordingly, the most simple flow control measure you can take is to have the execution of a piece of code depend on the value of a variable. In Python, we use the if ... (then) ... else statements for this:
 
 ```
 a = 0
@@ -52,14 +52,14 @@ All standard Boolean operators are available, many more can be obtained through 
 
 ### Flow control: for
 
-If you are used to another programming language, the `for` loop in Python takes some getting used to -- but is actually much more convenient than, for instance, its C or C++ cousin. In Python, a `for` loop always processes a list. For the technically inclined: a `for`loop in Python is actually a `for each` loop. The basic function of a `for`loop is to run some code a number of times until a condition is met, usually until a predefined number of times has been reached. To print "hello" ten times, in Python we write:
+If you are used to another programming language, the `for` loop in Python takes some getting used to but is actually much more convenient than, for instance, its C or C++ cousin. In Python, a `for` loop always processes a list. For the technically inclined: a `for` loop in Python is actually a `for each` loop. The basic function of a `for` loop is to run some code a number of times until a condition is met, usually until a predefined number of times has been reached. To print "hello" ten times, in Python we write:
 
 ```
 for x in range(10):
     print('hello')
 ```
 
-Note that the `range`statement here defines a list of numbers. If it is given only one argument, it will create a list that ranges from 0 to the argument. If it is given two, it will treat them as the lowest and highest values of the list. A third argument defines the step size.
+Note that the `range` statement here defines a list of numbers. If it is given only one argument, it will create a list that ranges from 0 to the argument. If it is given two, it will treat them as the lowest and highest values of the list. A third argument defines the step size.
 
 Also note the indentation: this is how Python knows that we are defining a new code block that should run "inside" the `for` loop. The same indentation is used for`if`-statements.
 
@@ -76,7 +76,7 @@ An alternative to the `for` loop is the `while` loop. This loop continues runnin
 
  ```
 while True:
-    print('forever)
+    print('forever')
 ```
 
 A more useful variation will check the value of a variable:

@@ -24,9 +24,9 @@ jupyter notebook
 
 To quit the Juypter server, press `ctrl+c`, to deactivate the environment run `source deactivate` (on Windows, replace `source`with `conda`).
 
-To pull code from the [class repository](https://github.com/zentralwerkstatt/ART185AI), change to the repository folder (`ART185AI`) and run `git pull`. Note: if git opens Vim, close it with `shift+z,z`.
+To pull code from the [class repository](https://github.com/zentralwerkstatt/ART185AI), change to the local repository folder (`ART185AI`) and run `git pull`. Note: if git opens Vim, close it with `shift+z,z`.
 
-To push your work to the [lab repository](https://github.com/zentralwerkstatt/ART185AI-lab), first commit your changes, then push:
+To push your work to the [lab repository](https://github.com/zentralwerkstatt/ART185AI-lab), change to the local repository folder (`ART185AI-lab`), then commit your changes and push:
 
 ```
 git add -u
@@ -34,7 +34,7 @@ git commit -m "Your commit message"
 git push origin master
 ```
 
-If your copy of the repository is not in sync with the remote branch, run `git pull`first.
+If your copy of the repository is not in sync with the remote branch, run `git pull` first.
 
 ## Comments
 
@@ -44,11 +44,11 @@ A comment will not be executed, even if it contains executable code.
 
 ## Imports
 
-Python is a modular language. This means most of the useful extensions of the language will come as libraries that you will need to install and import. Fortunately, as we are using the Anaconda distribution and are working inside an environment, this is easy. Simply install the respective package in your environment and then run ìmport package`. For packages that are used really frequently in the code, you can also change the name to something shorter with the às` keyword, for instance: `import torchvision as tv`. You can also import only parts of a package with the `from` keyword.
+Python is a modular language. This means most of the useful extensions of the language will come as libraries that you will need to install and import. Fortunately, as we are using the Anaconda distribution and are working inside an environment, this is easy. Simply install the respective package in your environment and then run `import package`. For packages that are used really frequently in the code, you can also change the name to something shorter with the `as` keyword, for instance: `import torchvision as tv`. You can also import only parts of a package with the `from` keyword.
 
 ## Simple data types
 
-While the technical reality is a bit more complicated, we can regard variables as *signs that holds values*. In Python, we can assign a value to a sign with the equality operator: `a = 1`. Variables can hold many different kinds of values, integers (`a = 1`), floating point numbers (`a = 1.5`), words (`a = 'foo'`), truth values (`True`or `False`) vectors, matrices, or even complicated structures made up of many different kinds of values. Python also offers built-in support for more complex data types, for instance (literally) complex numbers (a = `3+2j`) or very large/small numbers in scientific notation (a = `2e-10`). However, Python is a [weakly-typed](https://en.wikipedia.org/wiki/Type_system) language. In practice, this means that we do not have to tell the interpreter what kind of value we are assigning to a sign, it will infer this for us.
+While the technical reality is a bit more complicated, we can regard variables as *signs that holds values*. In Python, we can assign a value to a sign with the equality operator: `a = 1`. Variables can hold many different kinds of values, integers (`a = 1`), floating point numbers (`a = 1.5`), words (`a = 'foo'`), truth values (`True`or `False`) vectors, matrices, or even complicated structures made up of many different kinds of values. Python also offers built-in support for more complex data types, for instance (literally) complex numbers (a = 3+2j`) or very large/small numbers in scientific notation (a = 2e-10`). However, Python is a [weakly-typed](https://en.wikipedia.org/wiki/Type_system) language. In practice, this means that we do not have to tell the interpreter what kind of value we are assigning to a sign, it will infer this for us.
 
 There are many different way to "look into" a variable, i.e. see what value it is holding at a certain point in the execution of the program. A very easy way is to just print its value to the console/notebook. In Python, we use the `print` function for this purpose: `print(a)`.
 
