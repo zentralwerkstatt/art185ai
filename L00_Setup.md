@@ -21,10 +21,6 @@ The following steps assume some familiarity with the command line on your respec
 
 If everything worked, you should be able to `cd` into a directory of your choice and run `jupyter notebook`without errors. A browser window will open with the Jupyter interface. There, by pressing the "New" button and the selecting "Python 3", a new Juypter notebook will open. Click on the first cell and enter `print('Hello world!')`, then press `Ctrl + Enter`. The text "Hello world!" will be printed below the cell. Congratulations, you are all set up!
 
-## Git
-
-[...]
-
 ## Help and Support
 
 In the next couple of weeks you will inevitably run into some problems: your code does not work, a library is missing, cryptic error messages are thrown. Do not panic! Coding in times of the Internet means that there is always someone else who has encountered this error before. Many resources exist online that will help you passively, by already having a solution to your problem, or even actively, allowing you to ask questions. During class, please point out problems immediately so we can solve them in a timely manner. Outside class, please try everything at your disposal to solve the problem yourself, and only then email me: I will expect that you describe some of the steps that you have tried in your email.

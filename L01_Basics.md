@@ -24,9 +24,9 @@ jupyter notebook
 
 To quit the Juypter server, press `ctrl+c`, to deactivate the environment run `source deactivate` (on Windows, replace `source`with `conda`).
 
-To pull code from the [class repository], change to the repository folder (`ART185AI`) and run `git pull`. Note: if git opens Vim, close it with `shift+z,z`.
+To pull code from the [class repository](https://github.com/zentralwerkstatt/ART185AI), change to the repository folder (`ART185AI`) and run `git pull`. Note: if git opens Vim, close it with `shift+z,z`.
 
-To push your work to the [lab repository], first commit your changes, then push:
+To push your work to the [lab repository](https://github.com/zentralwerkstatt/ART185AI-lab), first commit your changes, then push:
 
 ```
 git add -u
