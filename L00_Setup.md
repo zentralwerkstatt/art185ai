@@ -1,4 +1,4 @@
-# Setting Up
+# Python for Machine Learning 0: Setting Up
 
 ## Installation
 

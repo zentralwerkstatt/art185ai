@@ -1,4 +1,4 @@
-# Python for Machine Learning 1
+# Python for Machine Learning 2: Basics
 
 ## Lists
 
