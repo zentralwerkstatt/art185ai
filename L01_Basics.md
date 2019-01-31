@@ -38,11 +38,13 @@ If your copy of the repository is not in sync with the remote branch, run `git p
 
 ## Comments
 
-`# This is a comment. It starts with a hash sign`. A comment will not be executed, even if it contains executable code.
+`# This is a comment. It starts with a hash sign.` 
+
+A comment will not be executed, even if it contains executable code.
 
 ## Imports
 
-Python is a modular language. This means most of the useful extensions of the language will come as libraries that you will need to install and import. Fortunately, as we are using the Anaconda distribution and are working inside an environment, this is easy. Simply install the respective package in your environment and then run ìmport package`. For packages that are used really frequently in the code, you can also change the name to something shorter with the às` keyword, for instance: ìmport torchvision as tv`. You can also import only parts of a package with the `from` keyword.
+Python is a modular language. This means most of the useful extensions of the language will come as libraries that you will need to install and import. Fortunately, as we are using the Anaconda distribution and are working inside an environment, this is easy. Simply install the respective package in your environment and then run ìmport package`. For packages that are used really frequently in the code, you can also change the name to something shorter with the às` keyword, for instance: `import torchvision as tv`. You can also import only parts of a package with the `from` keyword.
 
 ## Simple data types
 
