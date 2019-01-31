@@ -10,7 +10,7 @@ This is the class repository. Both descriptions and code for each lesson will be
 
 ## Lessons
 
-- 0. Setting up: [Lesson](https://github.com/zentralwerkstatt/ART185AI/blob/master/L00_Setup.md) / Code
-- 1. Basics: [Lesson](https://github.com/zentralwerkstatt/ART185AI/blob/master/L01_Basics.md) / [Code](https://github.com/zentralwerkstatt/ART185AI/blob/master/N01_Basics.ipynb)
-- 2. Basics: [Lesson](https://github.com/zentralwerkstatt/ART185AI/blob/master/L02_Basics.md) / [Code](https://github.com/zentralwerkstatt/ART185AI/blob/master/N02_Basics.ipynb)
+- Setting up: [Lesson](https://github.com/zentralwerkstatt/ART185AI/blob/master/L00_Setup.md) / Code
+- Basics: [Lesson](https://github.com/zentralwerkstatt/ART185AI/blob/master/L01_Basics.md) / [Code](https://github.com/zentralwerkstatt/ART185AI/blob/master/N01_Basics.ipynb)
+- Basics: [Lesson](https://github.com/zentralwerkstatt/ART185AI/blob/master/L02_Basics.md) / [Code](https://github.com/zentralwerkstatt/ART185AI/blob/master/N02_Basics.ipynb)
 - [...]
