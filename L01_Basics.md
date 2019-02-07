@@ -75,9 +75,8 @@ We can also obtain truth values from algebraic statements using variables. For i
 
 In the next meetings we will talk about:
 
-- Lists, flow control
-- Functions, classes
-- Dictionaries, Numpy
+- Lists, flow control, functions
+- Classes, dictionaries, NumPy
 - PyTorch: basics
 - PyTorch: examples
 - Building our own MNIST classifier

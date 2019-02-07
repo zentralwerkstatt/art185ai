@@ -88,12 +88,30 @@ while a <= 10:
     a += 1
 ```
 
+## Functions
+
+Functions in Python mirror mathematical functions. They are defined as an operation over several arguments. In Python, the `def`keyword is used for this, followed by a colon and an indent the block that defines the function. Functions can take anything between zero and infinite arguments, listed in parentheses right after the function name. Arguments can be anything, even lists or other functions. Importantly, functions open up a new variable *scope*. This means, variables defined within the context of the function will not exist outside the function, including the arguments! Results computed by a function are returned to the part of the program that calls them with the `return` statement.
+
+```
+def add(a, b):
+    return a + b
+add(1, 2)
+```
+
+In python, arguments can have default values. This is exessively used in machine learning code. Default values make arguments optional! Given the function
+
+```
+def add(a, b=100):
+    return a + b
+```
+
+`add(1, 2)`will return 3, but `add(1)`will return 101.
+
 ## Next
 
 In the next meetings we will talk about:
 
-- Functions, classes
-- Dictionaries, Numpy
+- Classes, dictionaries, NumPy
 - PyTorch: basics
 - PyTorch: examples
 - Building our own MNIST classifier
