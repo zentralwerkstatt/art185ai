@@ -13,4 +13,5 @@ This is the class repository. Both descriptions and code for each lesson will be
 - Setting up: [Lesson](https://github.com/zentralwerkstatt/ART185AI/blob/master/L00_Setup.md) / Code
 - Basics: [Lesson](https://github.com/zentralwerkstatt/ART185AI/blob/master/L01_Basics.md) / [Code](https://github.com/zentralwerkstatt/ART185AI/blob/master/N01_Basics.ipynb)
 - Basics: [Lesson](https://github.com/zentralwerkstatt/ART185AI/blob/master/L02_Basics.md) / [Code](https://github.com/zentralwerkstatt/ART185AI/blob/master/N02_Basics.ipynb)
-- [...]
+- Advanced concepts: [Lesson](https://github.com/zentralwerkstatt/ART185AI/blob/master/L03_Advanced.md) / [Code](https://github.com/zentralwerkstatt/ART185AI/blob/master/N03_Advanced.ipynb)
+- A Working MNIST Classifier: Lesson / [Code](https://github.com/zentralwerkstatt/ART185AI/blob/master/N04_MNIST.ipynb)
