@@ -123,7 +123,7 @@ The more complex multidimensional arrays are, the more important does slicing be
 ```
 n=1
 print(a[:,:,n])
-``
+```
 
 A colon indicates that the respective dimension (axis) is returned completely, you can think of it as an "empty" slicing operator.
 
