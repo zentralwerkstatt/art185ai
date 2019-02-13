@@ -6,12 +6,12 @@ Email: offert@ucsb.edu
 
 ## Description
 
-This is the class repository. Both descriptions and code for each lesson will be posted here. The repository is read-only (more precisely: pull-only). If you are trying to push something, you are probably looking for the [lab repository](https://github.com/zentralwerkstatt/ART185AI-lab)!
+This is the class repository. Code and commentary for each lesson will be posted here. The repository is read-only (more precisely: pull-only). If you are trying to push something, you are probably looking for the [lab repository](https://github.com/zentralwerkstatt/ART185AI-lab)!
 
 ## Lessons
 
-- Setting up: [Lesson](https://github.com/zentralwerkstatt/ART185AI/blob/master/L00_Setup.md) / Code
-- Basics: [Lesson](https://github.com/zentralwerkstatt/ART185AI/blob/master/L01_Basics.md) / [Code](https://github.com/zentralwerkstatt/ART185AI/blob/master/N01_Basics.ipynb)
-- Basics: [Lesson](https://github.com/zentralwerkstatt/ART185AI/blob/master/L02_Basics.md) / [Code](https://github.com/zentralwerkstatt/ART185AI/blob/master/N02_Basics.ipynb)
-- Advanced concepts: [Lesson](https://github.com/zentralwerkstatt/ART185AI/blob/master/L03_Advanced.md) / [Code](https://github.com/zentralwerkstatt/ART185AI/blob/master/N03_Advanced.ipynb)
-- A Working MNIST Classifier: Lesson / [Code](https://github.com/zentralwerkstatt/ART185AI/blob/master/N04_MNIST.ipynb)
+- [Setting up](https://github.com/zentralwerkstatt/ART185AI/blob/master/N00_Setup.ipynb)
+- [Basics Concepts I](https://github.com/zentralwerkstatt/ART185AI/blob/master/N01_Basics.ipynb)
+- [Basic Concepts II](https://github.com/zentralwerkstatt/ART185AI/blob/master/N02_Basics.ipynb)
+- [Advanced Concepts](https://github.com/zentralwerkstatt/ART185AI/blob/master/N03_Advanced.ipynb)
+- [Building/Reading a Working MNIST Classifier](https://github.com/zentralwerkstatt/ART185AI/blob/master/N04_MNIST.ipynb)
