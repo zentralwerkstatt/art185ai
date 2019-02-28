@@ -16,3 +16,5 @@ This is the class repository. Code and commentary for each lesson will be posted
 - [Advanced Concepts](https://github.com/zentralwerkstatt/ART185AI/blob/master/N03_Advanced.ipynb)
 - [Building/Reading a Working MNIST Classifier](https://github.com/zentralwerkstatt/ART185AI/blob/master/N04_MNIST.ipynb)
 - [Natural Language Processing](https://github.com/zentralwerkstatt/ART185AI/blob/master/N05_NLP.ipynb)
+- [Deep Dream](https://github.com/zentralwerkstatt/ART185AI/blob/master/N06_Deepdream.ipynb)
+- [Feature Visualization](https://github.com/zentralwerkstatt/ART185AI/blob/master/N07_Visualization.ipynb)
