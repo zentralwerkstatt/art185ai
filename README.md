@@ -18,3 +18,4 @@ This is the class repository. Code and commentary for each lesson will be posted
 - [Natural Language Processing](https://github.com/zentralwerkstatt/ART185AI/blob/master/N05_NLP.ipynb)
 - [Deep Dream](https://github.com/zentralwerkstatt/ART185AI/blob/master/N06_Deepdream.ipynb)
 - [Feature Visualization](https://github.com/zentralwerkstatt/ART185AI/blob/master/N07_Visualization.ipynb)
+- [BigGAN](https://github.com/zentralwerkstatt/ART185AI/blob/master/N08_BigGAN.ipynb)
