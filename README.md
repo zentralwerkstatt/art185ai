@@ -6,7 +6,7 @@ Email: offert@ucsb.edu
 
 ## Description
 
-This is the class repository. Code and commentary for each lesson will be posted here. The repository is read-only (more precisely: pull-only). If you are trying to push something, you are probably looking for the [lab repository](https://github.com/zentralwerkstatt/ART185AI-lab)!
+This is the class repository. Code and commentary for each lesson will be posted here. The repository is read-only (more precisely: pull-only). If you are trying to push something, you are probably looking for the lab repository!
 
 ## Lessons
 
